@@ -28,4 +28,3 @@ https://itsmeadriana.github.io/HoriSEOn
 ❤️ Made with love by Adriana ❤️
 ####
 ©️2021 Copyright Horiseon, Inc.
-
