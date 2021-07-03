@@ -29,6 +29,6 @@ https://itsmeadriana.github.io/HoriSEOn
 
 ## Contribution:
 ###
-❤️ Made with love by Adriana ❤️
+❤️ Code refactored with love by Adriana ❤️
 ####
 ©️2021 Copyright Horiseon, Inc.
