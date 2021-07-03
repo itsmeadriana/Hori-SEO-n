@@ -1,2 +1,31 @@
-# Hori-SEO-n
-Horiseon is a marketing strategy designed to bring you the best web tools and social media strategies to help your business grow.
+# Horiseon
+## Purpose:
+
+### Horiseon is a marketing strategy designed to bring you the best web and social media tools to help your business grow.
+
+## Built With:
+
+### 
+- HTML
+- CSS
+- Lots of love
+
+## How to Use:
+
+###
+
+1. See the live website here: https://itsmeadriana.github.io/HoriSEOn
+2. Alternatively, you may clone this repo, download the .zip file, and open "index.html" in your favorite browser!
+
+## Website:
+
+###
+
+https://itsmeadriana.github.io/HoriSEOn
+
+## Contribution:
+###
+❤️ Made with love by Adriana ❤️
+####
+©️2021 Copyright Horiseon, Inc.
+
