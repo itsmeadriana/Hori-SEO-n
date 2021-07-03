@@ -1,7 +1,7 @@
 # Hori(SEO)n
 ## Purpose:
 
-### Horiseon is a marketing strategy designed to bring you the best web and social media tools to help your business grow.
+#### Horiseon is a marketing strategy designed to bring you the best web and social media tools to help your business grow.
 
 ## Built With:
 
